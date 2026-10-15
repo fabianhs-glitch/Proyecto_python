@@ -1,0 +1,492 @@
+id_venta,fecha,id_cliente,id_producto,cantidad,precio_unitario,descuento_pct,importe,ciudad,canal,Origen
+V0122,17/03/2025,C008,P05,5,"210,0",5,"997,5",Chiclayo, Web ,ventas_2025-03.csv
+V0267,2025-03-26,C019,P06,1,"950,0",15,"807,5",Trujillo,Web,ventas_2025-03.csv
+V0436,16/03/2025,C005,P01,2,"3200,0",0,"6400,0",,Telefono,ventas_2025-03.csv
+V0260,03/03/2025,C014,P07,3,"180,0",15,"459,0",Trujillo,Web,ventas_2025-03.csv
+V0094,2025-03-11,C017,P03,6,"120,0",15,,Cusco,telefono,ventas_2025-03.csv
+V0365,2025-03-07,C011,P05,4,"210,0",0,"840,0",Arequipa,TELEFONO,ventas_2025-03.csv
+V0399,2025-03-11,C005,P02,4,"780,0",5,"2964,0",Trujillo, Tienda ,ventas_2025-03.csv
+V0423,2025-03-14,C017,P06,3,"950,0",15,"2422,5",Piura,TIENDA,ventas_2025-03.csv
+V0149,30/03/2025,C019,P07,2,"180,0",0,"360,0",Piura, Web ,ventas_2025-03.csv
+V0166,2025-03-26,C002,P04,1,"65,0",0,"65,0",Piura,Web,ventas_2025-03.csv
+V0115,24/03/2025,C006,P02,6,"780,0",15,"3978,0",Arequipa,Web,ventas_2025-03.csv
+V0114,2025-03-12,C006,P02,2,"780,0",15,"1326,0",Lima,Telefono,ventas_2025-03.csv
+V0008,2025-03-05,C001,P01,1,"3200,0",0,"3200,0",Arequipa, Tienda ,ventas_2025-03.csv
+V0196,18/03/2025,C006,P01,5,"3200,0",5,"15200,0",Piura, Web ,ventas_2025-03.csv
+V0339,2025-03-02,C005,P04,6,"65,0",10,"351,0",Trujillo, Telefono ,ventas_2025-03.csv
+V0164,15/03/2025,C007,P06,4,"950,0",10,,Chiclayo,TIENDA,ventas_2025-03.csv
+V0419,2025-03-10,C009,P06,5,"950,0",0,"4750,0",,Tienda,ventas_2025-03.csv
+V0435,2025-03-04,C019,P05,3,"210,0",5,,Cusco,Web,ventas_2025-03.csv
+V0054,2025-03-02,C002,P05,4,"210,0",0,"840,0",Piura, Tienda ,ventas_2025-03.csv
+V0281,2025-03-03,C018,P08,1,"640,0",10,"576,0",, Tienda ,ventas_2025-03.csv
+V0432,2025-03-04,C011,P05,3,"210,0",10,"567,0",Chiclayo, Tienda ,ventas_2025-03.csv
+V0407,2025-03-07,C017,P04,4,"65,0",15,"221,0",Lima, Tienda ,ventas_2025-03.csv
+V0149,30/03/2025,C019,P07,2,"180,0",0,"360,0",Piura, Web ,ventas_2025-03.csv
+V0271,12/03/2025,C019,P04,1,"65,0",0,"65,0",Cusco,Tienda,ventas_2025-03.csv
+V0348,2025-03-17,C009,P02,1,"780,0",0,"780,0",Cusco,Telefono,ventas_2025-03.csv
+V0275,2025-03-09,C015,P04,5,"65,0",10,"292,5",Piura, Telefono ,ventas_2025-03.csv
+V0319,2025-03-30,C005,P04,3,"65,0",15,"165,75",Chiclayo,Tienda,ventas_2025-03.csv
+V0281,2025-03-03,C018,P08,1,"640,0",10,"576,0",, Tienda ,ventas_2025-03.csv
+V0147,2025-03-13,C015,P07,5,"180,0",0,"900,0",Piura,Web,ventas_2025-03.csv
+V0175,2025-03-15,C005,P08,5,"640,0",0,"3200,0",Trujillo,WEB,ventas_2025-03.csv
+V0042,2025-03-22,C001,P03,1,"120,0",0,"120,0",Trujillo,Tienda,ventas_2025-03.csv
+V0325,2025-03-03,C006,P06,6,"950,0",0,"5700,0",Arequipa, Web ,ventas_2025-03.csv
+V0316,2025-03-31,C002,P04,3,"65,0",5,"185,25",Chiclayo, Tienda ,ventas_2025-03.csv
+V0411,17/03/2025,C004,P02,6,"780,0",15,"3978,0",Piura, Telefono ,ventas_2025-03.csv
+V0450,2025-03-16,C001,P07,6,"180,0",15,"918,0",Trujillo, Web ,ventas_2025-03.csv
+V0303,28/03/2025,C004,P08,1,"640,0",0,"640,0",Cusco,Web,ventas_2025-03.csv
+V0207,02/03/2025,C018,P04,5,"65,0",15,"276,25",Chiclayo, Tienda ,ventas_2025-03.csv
+V0327,2025-03-23,C004,P01,5,"3200,0",10,"14400,0",Piura,Telefono,ventas_2025-03.csv
+V0136,2025-03-19,C009,P05,3,"210,0",0,"630,0",Cusco,TIENDA,ventas_2025-03.csv
+V0470,2025-03-23,C010,P03,5,"120,0",10,"540,0",Cusco, Tienda ,ventas_2025-03.csv
+V0146,2025-03-13,C012,P07,2,"180,0",15,"306,0",Chiclayo,WEB,ventas_2025-03.csv
+V0310,2025-03-22,C005,P01,1,"3200,0",0,"3200,0",Cusco,telefono,ventas_2025-03.csv
+V0425,03/03/2025,C003,P08,3,"640,0",0,"1920,0",Arequipa,web,ventas_2025-03.csv
+V0187,10/03/2025,C006,P02,3,"780,0",0,"2340,0",Trujillo,Tienda,ventas_2025-03.csv
+V0274,25/03/2025,C008,P05,5,"210,0",0,"1050,0",Chiclayo, Telefono ,ventas_2025-03.csv
+V0324,2025-03-16,C020,P07,4,"180,0",0,"720,0",Trujillo,Tienda,ventas_2025-03.csv
+V0295,02/07/2025,C002,P01,6,"3200,0",0,"19200,0",Trujillo,telefono,ventas_2025-07.csv
+V0169,2025-07-25,C003,P07,3,"180,0",0,"540,0",Arequipa,Telefono,ventas_2025-07.csv
+V0476,2025-07-05,C018,P07,5,"180,0",15,"765,0",Arequipa, Web ,ventas_2025-07.csv
+V0461,29/07/2025,C011,P03,5,"120,0",0,"600,0",Lima, Tienda ,ventas_2025-07.csv
+V0467,05/07/2025,C010,P08,1,"640,0",15,"544,0",Trujillo,tienda,ventas_2025-07.csv
+V0216,01/07/2025,C015,P06,5,"950,0",0,"4750,0",Lima, Telefono ,ventas_2025-07.csv
+V0471,2025-07-25,C018,P03,2,"120,0",5,"228,0",Arequipa,web,ventas_2025-07.csv
+V0152,2025-07-18,C019,P04,2,"65,0",0,"130,0",Cusco,Tienda,ventas_2025-07.csv
+V0304,2025-07-05,C018,P05,4,"210,0",0,"840,0",Piura, Telefono ,ventas_2025-07.csv
+V0438,2025-07-14,C016,P02,4,"780,0",15,"2652,0",Chiclayo,Tienda,ventas_2025-07.csv
+V0218,2025-07-24,C009,P06,5,"950,0",0,"4750,0",Trujillo,web,ventas_2025-07.csv
+V0332,2025-07-02,C006,P07,4,"180,0",15,"612,0",Piura,web,ventas_2025-07.csv
+V0294,01/07/2025,C013,P02,5,"780,0",10,"3510,0",Piura, Web ,ventas_2025-07.csv
+V0336,2025-07-27,C011,P04,5,"65,0",5,"308,75",Lima, Telefono ,ventas_2025-07.csv
+V0011,2025-07-11,C011,P01,4,"3200,0",0,"12800,0",Cusco,Tienda,ventas_2025-07.csv
+V0301,2025-07-26,C006,P02,1,"780,0",10,,Cusco,web,ventas_2025-07.csv
+V0362,2025-07-01,C018,P07,4,"180,0",10,"648,0",Cusco,TIENDA,ventas_2025-07.csv
+V0210,2025-07-12,C015,P07,5,"180,0",15,"765,0",Piura,Telefono,ventas_2025-07.csv
+V0172,2025-07-18,C019,P05,5,"210,0",10,"945,0",Lima,web,ventas_2025-07.csv
+V9001,2025-07-14,C004,P01,-1,"3200,0",0,"-3200,0",Lima,Web,ventas_2025-07.csv
+V0352,26/07/2025,C011,P04,2,"65,0",0,"130,0",Chiclayo,TELEFONO,ventas_2025-07.csv
+V0230,2025-07-30,C004,P06,6,"950,0",0,"5700,0",Lima,telefono,ventas_2025-07.csv
+V0285,2025-07-05,C020,P07,1,"180,0",0,"180,0",Piura,TIENDA,ventas_2025-07.csv
+V0408,2025-07-19,C014,P02,4,"780,0",0,"3120,0",Chiclayo,telefono,ventas_2025-07.csv
+V0214,2025-07-26,C007,P05,5,"210,0",0,"1050,0",Cusco,Telefono,ventas_2025-07.csv
+V0003,16/07/2025,C006,P01,1,"3200,0",10,"2880,0",Lima,TIENDA,ventas_2025-07.csv
+V0224,20/07/2025,C015,P03,6,"120,0",15,"612,0",Piura,web,ventas_2025-07.csv
+V0449,2025-07-29,C005,P08,4,"640,0",0,"2560,0",Trujillo,TIENDA,ventas_2025-07.csv
+V0417,2025-07-17,C009,P02,5,"780,0",15,"3315,0",Chiclayo,Tienda,ventas_2025-07.csv
+V0220,19/07/2025,C011,P01,6,"3200,0",0,"19200,0",Arequipa, Web ,ventas_2025-07.csv
+V0133,23/07/2025,C012,P03,4,"120,0",0,"480,0",Lima,TIENDA,ventas_2025-07.csv
+V0269,2025-07-21,C009,P04,2,"65,0",0,,Cusco,tienda,ventas_2025-07.csv
+V0055,2025-07-23,C017,P08,2,"640,0",5,"1216,0",Arequipa, Tienda ,ventas_2025-07.csv
+V0062,2025-07-14,C006,P03,2,"120,0",15,"204,0",Arequipa, Tienda ,ventas_2025-07.csv
+V0129,2025-07-11,C014,P02,6,"780,0",0,,Chiclayo,web,ventas_2025-07.csv
+V0212,2025-05-29,C007,P04,1,"65,0",10,"58,5",Lima, Web ,ventas_2025-05.csv
+V0394,2025-05-06,C006,P03,4,"120,0",15,"408,0",Cusco,TELEFONO,ventas_2025-05.csv
+V0179,07/05/2025,C003,P02,1,"780,0",10,"702,0",Chiclayo,telefono,ventas_2025-05.csv
+V0232,2025-05-19,C013,P07,5,"180,0",0,"900,0",Piura,TELEFONO,ventas_2025-05.csv
+V0016,2025-05-19,C011,P03,3,"120,0",10,"324,0",Lima, Telefono ,ventas_2025-05.csv
+V0093,04/05/2025,C020,P06,6,"950,0",0,"5700,0",Trujillo,tienda,ventas_2025-05.csv
+V0306,2025-05-09,C005,P05,5,"210,0",0,"1050,0",Piura,Tienda,ventas_2025-05.csv
+V0048,2025-05-05,C002,P08,3,"640,0",0,"1920,0",, Telefono ,ventas_2025-05.csv
+V0150,2025-05-14,C008,P01,4,"3200,0",5,"12160,0",Cusco,tienda,ventas_2025-05.csv
+V0317,2025-05-04,C007,P02,2,"780,0",5,"1482,0",Arequipa, Web ,ventas_2025-05.csv
+V0409,2025-05-05,C012,P06,6,"950,0",0,"5700,0",Chiclayo,Tienda,ventas_2025-05.csv
+V0065,03/05/2025,C003,P06,6,"950,0",15,"4845,0",Lima, Tienda ,ventas_2025-05.csv
+V0072,07/05/2025,C015,P04,2,"65,0",0,"130,0",Lima,TELEFONO,ventas_2025-05.csv
+V0474,2025-05-26,C008,P01,2,"3200,0",0,"6400,0",Trujillo, Web ,ventas_2025-05.csv
+V0025,2025-05-16,C017,P02,1,"780,0",0,"780,0",Chiclayo,TIENDA,ventas_2025-05.csv
+V0049,2025-05-09,C004,P08,2,"640,0",0,"1280,0",Piura,web,ventas_2025-05.csv
+V0123,2025-05-20,C006,P02,1,"780,0",0,"780,0",Cusco,telefono,ventas_2025-05.csv
+V0029,23/05/2025,C019,P01,4,"3200,0",0,"12800,0",Piura, Web ,ventas_2025-05.csv
+V0096,15/05/2025,C017,P02,2,"780,0",10,"1404,0",Cusco,web,ventas_2025-05.csv
+V0349,2025-05-30,C002,P01,5,"3200,0",0,"16000,0",Lima,tienda,ventas_2025-05.csv
+V0015,21/05/2025,C015,P02,3,"780,0",15,"1989,0",Piura,TIENDA,ventas_2025-05.csv
+V0402,2025-05-03,C004,P04,2,"65,0",0,"130,0",Trujillo,WEB,ventas_2025-05.csv
+V0211,2025-05-28,C007,P07,3,"180,0",10,"486,0",,web,ventas_2025-05.csv
+V0406,2025-05-18,C001,P02,3,"780,0",10,"2106,0",Trujillo, Telefono ,ventas_2025-05.csv
+V0184,31/05/2025,C008,P01,6,"3200,0",0,"19200,0",Trujillo,web,ventas_2025-05.csv
+V0253,2025-05-31,C005,P02,2,"780,0",0,"1560,0",Arequipa,Tienda,ventas_2025-05.csv
+V0456,2025-05-12,C016,P01,3,"3200,0",0,"9600,0",Trujillo, Tienda ,ventas_2025-05.csv
+V0259,12/05/2025,C014,P04,2,"65,0",0,"130,0",Cusco, Telefono ,ventas_2025-05.csv
+V0379,2025-05-17,C004,P04,4,"65,0",0,"260,0",Arequipa,telefono,ventas_2025-05.csv
+V0437,31/05/2025,C004,P08,5,"640,0",0,"3200,0",Lima, Telefono ,ventas_2025-05.csv
+V0121,2025-05-03,C009,P08,1,"640,0",5,"608,0",Lima,Web,ventas_2025-05.csv
+V0458,2025-05-06,C016,P03,6,"120,0",0,"720,0",Chiclayo,tienda,ventas_2025-05.csv
+V0237,2025-05-10,C011,P03,3,"120,0",10,"324,0",Arequipa,tienda,ventas_2025-05.csv
+V0208,2025-05-25,C010,P08,6,"640,0",0,"3840,0",Piura,TELEFONO,ventas_2025-05.csv
+V0234,03/05/2025,C015,P04,2,"65,0",0,"130,0",Trujillo,Web,ventas_2025-05.csv
+V0197,2025-05-18,C019,P03,6,"120,0",0,"720,0",Chiclayo, Tienda ,ventas_2025-05.csv
+V0465,2025-05-03,C019,P06,2,"950,0",10,"1710,0",Chiclayo,WEB,ventas_2025-05.csv
+V0071,2025-05-01,C013,P07,6,"180,0",0,"1080,0",Trujillo,tienda,ventas_2025-05.csv
+V0028,09/05/2025,C006,P05,6,"210,0",0,"1260,0",Lima,TIENDA,ventas_2025-05.csv
+V0311,19/05/2025,C020,P05,2,"210,0",15,"357,0",,telefono,ventas_2025-05.csv
+V0186,2025-04-09,C005,P01,4,"3200,0",0,"12800,0",Arequipa,Tienda,ventas_2025-04.csv
+V0053,28/04/2025,C008,P04,4,"65,0",0,"260,0",Arequipa,WEB,ventas_2025-04.csv
+V0173,27/04/2025,C013,P02,6,"780,0",15,"3978,0",Piura, Tienda ,ventas_2025-04.csv
+V0005,2025-04-30,C002,P08,2,"640,0",15,"1088,0",Lima,Web,ventas_2025-04.csv
+V0142,2025-04-11,C012,P03,5,"120,0",10,"540,0",Cusco,telefono,ventas_2025-04.csv
+V0204,2025-04-23,C011,P06,5,"950,0",0,"4750,0",Arequipa,Telefono,ventas_2025-04.csv
+V0017,2025-04-29,C008,P02,3,"780,0",10,"2106,0",Piura,telefono,ventas_2025-04.csv
+V0130,2025-04-23,C020,P04,4,"65,0",0,"260,0",Lima,TELEFONO,ventas_2025-04.csv
+V0380,2025-04-28,C011,P05,3,"210,0",5,"598,5",Chiclayo,Web,ventas_2025-04.csv
+V0426,2025-04-27,C003,P04,1,"65,0",5,,Arequipa,TIENDA,ventas_2025-04.csv
+V0101,2025-04-10,C007,P03,2,"120,0",0,"240,0",Piura, Tienda ,ventas_2025-04.csv
+V0231,2025-04-09,C015,P08,3,"640,0",0,"1920,0",Cusco,Telefono,ventas_2025-04.csv
+V0293,03/04/2025,C016,P01,5,"3200,0",5,"15200,0",Piura,WEB,ventas_2025-04.csv
+V0154,2025-04-29,C006,P08,5,"640,0",0,"3200,0",Piura,TIENDA,ventas_2025-04.csv
+V0469,12/04/2025,C012,P03,4,"120,0",0,,Cusco,telefono,ventas_2025-04.csv
+V0063,2025-04-28,C020,P05,2,"210,0",5,"399,0",,TIENDA,ventas_2025-04.csv
+V0074,2025-04-04,C018,P07,4,"180,0",15,"612,0",Trujillo,TELEFONO,ventas_2025-04.csv
+V0389,27/04/2025,C007,P08,5,"640,0",0,"3200,0",Lima,web,ventas_2025-04.csv
+V0257,2025-04-21,C006,P01,6,"3200,0",0,"19200,0",Trujillo,TIENDA,ventas_2025-04.csv
+V0302,28/04/2025,C012,P03,3,"120,0",0,"360,0",Chiclayo,web,ventas_2025-04.csv
+V0473,2025-04-03,C007,P02,5,"780,0",0,"3900,0",Chiclayo,WEB,ventas_2025-04.csv
+V0479,2025-04-26,C007,P01,4,"3200,0",0,"12800,0",Arequipa,Web,ventas_2025-04.csv
+V0018,2025-04-21,C015,P03,1,"120,0",15,"102,0",Chiclayo,TIENDA,ventas_2025-04.csv
+V0276,2025-04-24,C015,P04,5,"65,0",0,"325,0",Trujillo, Tienda ,ventas_2025-04.csv
+V0265,29/04/2025,C012,P08,5,"640,0",0,"3200,0",Cusco,TIENDA,ventas_2025-04.csv
+V0182,2025-04-10,C001,P01,5,"3200,0",5,"15200,0",Cusco,web,ventas_2025-04.csv
+V0318,2025-04-30,C007,P05,5,"210,0",15,"892,5",Piura,WEB,ventas_2025-04.csv
+V0098,2025-04-21,C014,P02,6,"780,0",0,"4680,0",Arequipa,Telefono,ventas_2025-04.csv
+V0255,2025-04-15,C016,P06,4,"950,0",0,"3800,0",Arequipa,Tienda,ventas_2025-04.csv
+V0070,17/04/2025,C011,P02,5,"780,0",0,"3900,0",Lima,Telefono,ventas_2025-04.csv
+V0298,2025-04-11,C018,P04,2,"65,0",10,"117,0",Trujillo,TIENDA,ventas_2025-04.csv
+V0095,2025-04-04,C019,P07,1,"180,0",15,"153,0",Arequipa,telefono,ventas_2025-04.csv
+V0045,2025-04-19,C009,P03,2,"120,0",0,"240,0",Lima,telefono,ventas_2025-04.csv
+V0315,2025-04-24,C006,P07,5,"180,0",10,"810,0",Piura,web,ventas_2025-04.csv
+V0138,14/04/2025,C014,P03,5,"120,0",15,"510,0",Cusco,web,ventas_2025-04.csv
+V0189,11/04/2025,C010,P04,1,"65,0",10,"58,5",Lima,TIENDA,ventas_2025-04.csv
+V0001,13/04/2025,C001,P07,2,"180,0",0,"360,0",,Tienda,ventas_2025-04.csv
+V0341,2025-04-03,C011,P08,3,"640,0",0,"1920,0",Chiclayo,tienda,ventas_2025-04.csv
+V0078,2025-04-20,C012,P03,2,"120,0",0,"240,0",Chiclayo,TELEFONO,ventas_2025-04.csv
+V0286,2025-04-18,C003,P06,5,"950,0",0,"4750,0",Cusco,telefono,ventas_2025-04.csv
+V0282,2025-11-16,C011,P02,5,"780,0",15,"3315,0",Arequipa,web,ventas_2025-11.csv
+V0414,2025-11-16,C019,P08,6,"640,0",0,"3840,0",Cusco,TIENDA,ventas_2025-11.csv
+V0200,2025-11-10,C009,P01,5,"3200,0",15,"13600,0",Lima,Telefono,ventas_2025-11.csv
+V0014,2025-11-20,C019,P05,6,"210,0",0,"1260,0",Chiclayo,TELEFONO,ventas_2025-11.csv
+V0092,2025-11-09,C010,P01,2,"3200,0",0,"6400,0",Trujillo,telefono,ventas_2025-11.csv
+V0468,2025-11-07,C014,P06,4,"950,0",0,"3800,0",Lima,Tienda,ventas_2025-11.csv
+V0361,09/11/2025,C005,P08,6,"640,0",0,"3840,0",Trujillo, Telefono ,ventas_2025-11.csv
+V0242,2025-11-04,C010,P08,4,"640,0",15,"2176,0",Piura,Tienda,ventas_2025-11.csv
+V0415,2025-11-24,C010,P06,1,"950,0",0,"950,0",Arequipa,WEB,ventas_2025-11.csv
+V0466,2025-11-15,C009,P04,1,"65,0",0,"65,0",Lima,web,ventas_2025-11.csv
+V0086,2025-11-16,C014,P01,6,"3200,0",0,"19200,0",Trujillo,TELEFONO,ventas_2025-11.csv
+V0258,2025-11-25,C001,P07,5,"180,0",5,"855,0",Cusco,web,ventas_2025-11.csv
+V0416,2025-11-26,C010,P03,6,"120,0",15,"612,0",Chiclayo,Telefono,ventas_2025-11.csv
+V0041,2025-11-15,C001,P04,4,"65,0",0,"260,0",Arequipa,Telefono,ventas_2025-11.csv
+V0266,18/11/2025,C009,P04,1,"65,0",0,"65,0",Chiclayo,telefono,ventas_2025-11.csv
+V0300,2025-11-10,C017,P06,2,"950,0",0,"1900,0",Lima,Telefono,ventas_2025-11.csv
+V0185,26/11/2025,C020,P01,5,"3200,0",0,"16000,0",Cusco,TIENDA,ventas_2025-11.csv
+V0215,2025-11-25,C017,P04,2,"65,0",10,"117,0",Trujillo,TELEFONO,ventas_2025-11.csv
+V0209,2025-11-19,C015,P07,5,"180,0",10,"810,0",Piura, Web ,ventas_2025-11.csv
+V0020,05/11/2025,C009,P07,2,"180,0",5,"342,0",Trujillo,Web,ventas_2025-11.csv
+V0076,2025-11-05,C012,P02,6,"780,0",0,"4680,0",Cusco,Telefono,ventas_2025-11.csv
+V0057,2025-11-08,C008,P02,2,"780,0",0,"1560,0",,telefono,ventas_2025-11.csv
+V0397,2025-11-06,C005,P04,5,"65,0",15,"276,25",Trujillo,tienda,ventas_2025-11.csv
+V0106,2025-11-17,C008,P01,1,"3200,0",5,"3040,0",Piura,Tienda,ventas_2025-11.csv
+V0261,2025-11-07,C004,P02,2,"780,0",0,"1560,0",Arequipa, Tienda ,ventas_2025-11.csv
+V0007,2025-11-29,C002,P03,3,"120,0",5,"342,0",Chiclayo,web,ventas_2025-11.csv
+V0235,2025-11-04,C005,P05,4,"210,0",15,"714,0",Trujillo,Tienda,ventas_2025-11.csv
+V0346,2025-01-22,C003,P04,1,"65,0",10,"58,5",Trujillo, Telefono ,ventas_2025-01.csv
+V0383,2025-01-01,C017,P03,6,"120,0",15,"612,0",Cusco,TIENDA,ventas_2025-01.csv
+V0444,2025-01-26,C013,P06,6,"950,0",0,"5700,0",Lima,WEB,ventas_2025-01.csv
+V0027,2025-01-01,C005,P02,5,"780,0",15,"3315,0",Lima,TIENDA,ventas_2025-01.csv
+V0460,2025-01-17,C002,P01,1,"3200,0",15,"2720,0",Lima,TELEFONO,ventas_2025-01.csv
+V0199,25/01/2025,C003,P02,5,"780,0",10,"3510,0",Chiclayo, Telefono ,ventas_2025-01.csv
+V0032,2025-01-06,C014,P01,3,"3200,0",15,"8160,0",Chiclayo,Web,ventas_2025-01.csv
+V0067,2025-01-08,C008,P07,4,"180,0",10,"648,0",Arequipa,Tienda,ventas_2025-01.csv
+V0355,2025-01-27,C019,P07,3,"180,0",0,"540,0",Cusco,TELEFONO,ventas_2025-01.csv
+V0284,2025-01-07,C020,P02,6,"780,0",0,"4680,0",Trujillo,WEB,ventas_2025-01.csv
+V0198,2025-01-25,C007,P03,1,"120,0",10,"108,0",Arequipa,web,ventas_2025-01.csv
+V0254,04/01/2025,C008,P08,5,"640,0",0,"3200,0",Lima,Tienda,ventas_2025-01.csv
+V0233,2025-01-23,C015,P08,2,"640,0",5,,,tienda,ventas_2025-01.csv
+V0162,2025-01-26,C001,P08,2,"640,0",0,"1280,0",Arequipa,TELEFONO,ventas_2025-01.csv
+V0035,2025-01-24,C005,P04,4,"65,0",0,"260,0",Lima,web,ventas_2025-01.csv
+V0272,2025-01-17,C007,P03,6,"120,0",0,"720,0",Trujillo, Web ,ventas_2025-01.csv
+V0044,2025-01-27,C001,P05,2,"210,0",10,"378,0",Lima,Tienda,ventas_2025-01.csv
+V0023,2025-01-14,C016,P03,4,"120,0",10,"432,0",Piura, Telefono ,ventas_2025-01.csv
+V0238,2025-01-19,C019,P01,6,"3200,0",0,"19200,0",Lima,TIENDA,ventas_2025-01.csv
+V0359,2025-01-13,C007,P04,6,"65,0",5,"370,5",Arequipa,WEB,ventas_2025-01.csv
+V0441,2025-01-31,C004,P01,1,"3200,0",15,"2720,0",Trujillo,telefono,ventas_2025-01.csv
+V0480,2025-01-08,C017,P06,5,"950,0",0,"4750,0",Trujillo,telefono,ventas_2025-01.csv
+V0127,2025-01-01,C015,P01,4,"3200,0",0,"12800,0",Piura,telefono,ventas_2025-01.csv
+V0320,2025-01-14,C008,P01,6,"3200,0",5,"18240,0",Trujillo,WEB,ventas_2025-01.csv
+V0433,20/01/2025,C017,P02,2,"780,0",5,"1482,0",Chiclayo,telefono,ventas_2025-01.csv
+V0452,2025-01-02,C005,P04,6,"65,0",0,"390,0",Piura,Web,ventas_2025-01.csv
+V0428,30/01/2025,C012,P02,5,"780,0",0,"3900,0",Chiclayo,WEB,ventas_2025-01.csv
+V0264,2025-01-02,C018,P06,4,"950,0",5,"3610,0",, Web ,ventas_2025-01.csv
+V0344,04/01/2025,C015,P01,3,"3200,0",5,"9120,0",Chiclayo,WEB,ventas_2025-01.csv
+V0250,2025-01-05,C013,P08,1,"640,0",15,"544,0",Cusco,web,ventas_2025-01.csv
+V0290,20/01/2025,C019,P01,2,"3200,0",0,"6400,0",Chiclayo,tienda,ventas_2025-01.csv
+V0378,2025-01-30,C005,P02,1,"780,0",0,"780,0",Piura,telefono,ventas_2025-01.csv
+V0323,2025-01-06,C004,P03,4,"120,0",0,"480,0",Trujillo, Tienda ,ventas_2025-01.csv
+V0369,2025-01-12,C009,P05,3,"210,0",0,"630,0",Arequipa, Telefono ,ventas_2025-01.csv
+V0201,2025-01-15,C004,P02,5,"780,0",10,"3510,0",Piura,web,ventas_2025-01.csv
+V0248,2025-01-28,C020,P05,1,"210,0",5,"199,5",Lima, Tienda ,ventas_2025-01.csv
+V0139,2025-02-27,C009,P01,2,"3200,0",15,"5440,0",Lima, Tienda ,ventas_2025-02.csv
+V0404,2025-02-13,C014,P01,3,"3200,0",10,"8640,0",Trujillo, Web ,ventas_2025-02.csv
+V0385,2025-02-24,C002,P04,4,"65,0",0,"260,0",Chiclayo,tienda,ventas_2025-02.csv
+V0192,2025-02-14,C004,P05,6,"210,0",0,"1260,0",Lima,WEB,ventas_2025-02.csv
+V0056,2025-02-21,C010,P04,2,"65,0",0,"130,0",Cusco,WEB,ventas_2025-02.csv
+V0183,2025-02-03,C007,P02,6,"780,0",0,"4680,0",Cusco,web,ventas_2025-02.csv
+V0296,2025-02-23,C017,P04,2,"65,0",15,"110,5",Cusco, Telefono ,ventas_2025-02.csv
+V0037,2025-02-11,C013,P03,3,"120,0",5,"342,0",Cusco, Telefono ,ventas_2025-02.csv
+V0085,2025-02-04,C013,P05,2,"210,0",10,"378,0",Cusco,Telefono,ventas_2025-02.csv
+V0046,2025-02-16,C019,P03,6,"120,0",0,"720,0",Chiclayo,tienda,ventas_2025-02.csv
+V0116,2025-02-21,C015,P03,3,"120,0",15,"306,0",Lima, Tienda ,ventas_2025-02.csv
+V0033,2025-02-10,C014,P01,3,"3200,0",0,"9600,0",Chiclayo,TELEFONO,ventas_2025-02.csv
+V0381,2025-02-17,C004,P04,1,"65,0",0,"65,0",Trujillo, Tienda ,ventas_2025-02.csv
+V0329,2025-02-17,C018,P07,5,"180,0",15,"765,0",Trujillo,Tienda,ventas_2025-02.csv
+V0068,2025-02-11,C001,P05,3,"210,0",15,"535,5",Cusco, Telefono ,ventas_2025-02.csv
+V0236,2025-02-01,C004,P03,5,"120,0",15,"510,0",Arequipa,web,ventas_2025-02.csv
+V0360,2025-02-28,C009,P04,1,"65,0",0,"65,0",Piura, Tienda ,ventas_2025-02.csv
+V0126,2025-02-24,C020,P07,3,"180,0",0,"540,0",Cusco, Tienda ,ventas_2025-02.csv
+V0289,2025-02-06,C015,P02,5,"780,0",5,"3705,0",Piura,TIENDA,ventas_2025-02.csv
+V0446,21/02/2025,C011,P07,4,"180,0",15,"612,0",Chiclayo,web,ventas_2025-02.csv
+V0030,2025-02-28,C004,P02,5,"780,0",5,"3705,0",Cusco,Web,ventas_2025-02.csv
+V0191,2025-02-23,C008,P03,5,"120,0",0,"600,0",Lima,Telefono,ventas_2025-02.csv
+V0043,2025-02-16,C013,P08,5,"640,0",15,"2720,0",Chiclayo,Web,ventas_2025-02.csv
+V0177,25/02/2025,C012,P01,1,"3200,0",15,"2720,0",Piura,TIENDA,ventas_2025-02.csv
+V0163,12/02/2025,C012,P01,2,"3200,0",10,"5760,0",Chiclayo,Tienda,ventas_2025-02.csv
+V0283,2025-02-07,C019,P05,5,"210,0",10,"945,0",Chiclayo,Web,ventas_2025-02.csv
+V0058,2025-02-06,C010,P02,1,"780,0",0,"780,0",Trujillo,Tienda,ventas_2025-02.csv
+V0312,2025-02-04,C015,P05,6,"210,0",5,"1197,0",Lima,web,ventas_2025-02.csv
+V0405,2025-08-24,C010,P01,5,"3200,0",5,"15200,0",Cusco,TELEFONO,ventas_2025-08.csv
+V0245,2025-08-10,C002,P01,2,"3200,0",5,"6080,0",Chiclayo,TIENDA,ventas_2025-08.csv
+V0314,2025-08-05,C007,P08,2,"640,0",0,"1280,0",Piura, Web ,ventas_2025-08.csv
+V0225,2025-08-24,C011,P01,3,"3200,0",0,"9600,0",Lima,WEB,ventas_2025-08.csv
+V0342,2025-08-24,C013,P08,4,"640,0",0,"2560,0",Piura, Tienda ,ventas_2025-08.csv
+V0387,2025-08-16,C004,P03,3,"120,0",0,"360,0",Cusco,tienda,ventas_2025-08.csv
+V0107,2025-08-16,C009,P07,3,"180,0",0,"540,0",Lima,TIENDA,ventas_2025-08.csv
+V0181,2025-08-15,C016,P06,4,"950,0",10,"3420,0",Lima, Web ,ventas_2025-08.csv
+V0159,03/08/2025,C015,P06,3,"950,0",15,"2422,5",Chiclayo,telefono,ventas_2025-08.csv
+V0022,2025-08-19,C001,P03,2,"120,0",0,"240,0",Piura,Telefono,ventas_2025-08.csv
+V0448,2025-08-03,C008,P03,1,"120,0",0,"120,0",Trujillo,Web,ventas_2025-08.csv
+V0077,26/08/2025,C005,P02,1,"780,0",0,"780,0",Lima,Telefono,ventas_2025-08.csv
+V0009,2025-08-25,C016,P02,3,"780,0",15,"1989,0",Chiclayo,Telefono,ventas_2025-08.csv
+V0002,2025-08-30,C004,P02,1,"780,0",0,"780,0",Arequipa,telefono,ventas_2025-08.csv
+V0353,20/08/2025,C018,P04,5,"65,0",15,"276,25",Chiclayo,Telefono,ventas_2025-08.csv
+V0370,2025-08-12,C014,P04,5,"65,0",0,"325,0",Arequipa,telefono,ventas_2025-08.csv
+V0069,2025-08-02,C003,P02,6,"780,0",10,"4212,0",Lima, Tienda ,ventas_2025-08.csv
+V0144,2025-08-23,C006,P06,6,"950,0",10,"5130,0",Chiclayo,WEB,ventas_2025-08.csv
+V0083,2025-08-07,C016,P08,3,"640,0",5,"1824,0",Arequipa,web,ventas_2025-08.csv
+V0421,03/08/2025,C006,P04,2,"65,0",5,"123,5",Chiclayo,TIENDA,ventas_2025-08.csv
+V0213,2025-08-29,C013,P01,2,"3200,0",0,"6400,0",Arequipa,Telefono,ventas_2025-08.csv
+V0273,27/08/2025,C004,P07,3,"180,0",15,"459,0",Piura,TELEFONO,ventas_2025-08.csv
+V0168,2025-08-29,C018,P05,4,"210,0",5,"798,0",Arequipa,Telefono,ventas_2025-08.csv
+V0345,2025-08-30,C014,P05,5,"210,0",0,"1050,0",Piura,TIENDA,ventas_2025-08.csv
+V0195,26/08/2025,C010,P03,3,"120,0",0,"360,0",Trujillo, Web ,ventas_2025-08.csv
+V0026,17/08/2025,C001,P03,1,"120,0",0,"120,0",Piura,tienda,ventas_2025-08.csv
+V0205,2025-08-21,C010,P06,3,"950,0",15,"2422,5",Lima,TELEFONO,ventas_2025-08.csv
+V0455,2025-08-29,C018,P02,5,"780,0",10,"3510,0",Trujillo,TELEFONO,ventas_2025-08.csv
+V0060,2025-08-12,C018,P02,5,"780,0",5,"3705,0",Chiclayo,tienda,ventas_2025-08.csv
+V0364,2025-08-12,C015,P01,6,"3200,0",15,"16320,0",Chiclayo,Telefono,ventas_2025-08.csv
+V0111,2025-08-10,C011,P05,6,"210,0",0,"1260,0",Cusco,TIENDA,ventas_2025-08.csv
+V0128,2025-08-28,C007,P02,4,"780,0",0,"3120,0",Piura,WEB,ventas_2025-08.csv
+V0140,2025-08-20,C005,P04,5,"65,0",0,"325,0",Lima,tienda,ventas_2025-08.csv
+V0375,12/08/2025,C013,P07,2,"180,0",0,"360,0",Cusco, Telefono ,ventas_2025-08.csv
+V0251,2025-08-04,C003,P02,5,"780,0",5,"3705,0",Chiclayo,TELEFONO,ventas_2025-08.csv
+V0117,2025-08-03,C006,P05,2,"210,0",15,"357,0",Lima, Telefono ,ventas_2025-08.csv
+V0059,01/08/2025,C007,P05,3,"210,0",0,"630,0",Chiclayo,TIENDA,ventas_2025-08.csv
+V0134,2025-08-18,C003,P08,3,"640,0",0,"1920,0",Piura,telefono,ventas_2025-08.csv
+V0082,2025-08-10,C008,P03,1,"120,0",5,"114,0",Arequipa,Tienda,ventas_2025-08.csv
+V0401,2025-08-30,C018,P03,6,"120,0",15,"612,0",Chiclayo,telefono,ventas_2025-08.csv
+V0308,2025-08-06,C018,P02,2,"780,0",0,"1560,0",Piura,TELEFONO,ventas_2025-08.csv
+V0206,17/08/2025,C003,P03,3,"120,0",10,"324,0",Lima, Tienda ,ventas_2025-08.csv
+V0279,2025-08-12,C011,P08,6,"640,0",15,"3264,0",Cusco, Telefono ,ventas_2025-08.csv
+V0335,2025-08-09,C002,P03,6,"120,0",5,"684,0",Chiclayo,Web,ventas_2025-08.csv
+V0100,31/08/2025,C011,P02,2,"780,0",0,"1560,0",Chiclayo,Telefono,ventas_2025-08.csv
+V0165,2025-08-07,C009,P01,2,"3200,0",5,"6080,0",Trujillo,TELEFONO,ventas_2025-08.csv
+V0333,2025-08-16,C003,P06,4,"950,0",0,"3800,0",Arequipa, Telefono ,ventas_2025-08.csv
+V0367,2025-08-22,C011,P01,5,"3200,0",5,"15200,0",Piura, Telefono ,ventas_2025-08.csv
+V0193,23/06/2025,C011,P04,2,"65,0",5,"123,5",Arequipa,web,ventas_2025-06.csv
+V0337,2025-06-24,C020,P01,5,"3200,0",0,"16000,0",Cusco,TELEFONO,ventas_2025-06.csv
+V0103,18/06/2025,C005,P03,1,"120,0",5,"114,0",,web,ventas_2025-06.csv
+V0382,2025-06-17,C013,P03,1,"120,0",0,"120,0",Arequipa,telefono,ventas_2025-06.csv
+V0376,12/06/2025,C005,P05,4,"210,0",0,"840,0",Arequipa,web,ventas_2025-06.csv
+V0170,2025-06-12,C007,P04,6,"65,0",10,"351,0",Chiclayo, Telefono ,ventas_2025-06.csv
+V0176,2025-06-23,C016,P02,5,"780,0",15,"3315,0",, Telefono ,ventas_2025-06.csv
+V0227,10/06/2025,C011,P06,1,"950,0",0,"950,0",Trujillo,telefono,ventas_2025-06.csv
+V0478,2025-06-15,C007,P06,6,"950,0",0,"5700,0",Chiclayo,WEB,ventas_2025-06.csv
+V0413,2025-06-26,C004,P07,1,"180,0",0,,Chiclayo,Tienda,ventas_2025-06.csv
+V0268,2025-06-26,C017,P03,5,"120,0",10,"540,0",Piura, Tienda ,ventas_2025-06.csv
+V0052,2025-06-24,C013,P05,6,"210,0",0,,, Web ,ventas_2025-06.csv
+V0021,2025-06-16,C013,P05,2,"210,0",5,"399,0",Trujillo,Tienda,ventas_2025-06.csv
+V0343,2025-06-25,C001,P02,6,"780,0",0,"4680,0",Trujillo,Tienda,ventas_2025-06.csv
+V0356,23/06/2025,C011,P01,1,"3200,0",0,"3200,0",Piura,telefono,ventas_2025-06.csv
+V0395,2025-06-03,C001,P01,4,"3200,0",0,"12800,0",Arequipa,Web,ventas_2025-06.csv
+V0391,2025-06-21,C015,P05,3,"210,0",15,"535,5",,telefono,ventas_2025-06.csv
+V0239,27/06/2025,C012,P02,5,"780,0",10,"3510,0",Piura,Web,ventas_2025-06.csv
+V0087,2025-06-08,C014,P08,1,"640,0",10,"576,0",Arequipa,TELEFONO,ventas_2025-06.csv
+V0099,2025-06-17,C014,P01,5,"3200,0",0,"16000,0",Trujillo,telefono,ventas_2025-06.csv
+V0398,2025-06-12,C008,P04,6,"65,0",0,,Arequipa,Web,ventas_2025-06.csv
+V0153,2025-06-02,C013,P01,5,"3200,0",15,"13600,0",Arequipa,web,ventas_2025-06.csv
+V0064,04/06/2025,C014,P06,3,"950,0",0,"2850,0",Cusco, Telefono ,ventas_2025-06.csv
+V0400,2025-06-13,C008,P06,5,"950,0",0,"4750,0",Lima,Web,ventas_2025-06.csv
+V0194,2025-06-05,C010,P03,2,"120,0",0,"240,0",Arequipa,tienda,ventas_2025-06.csv
+V0088,2025-06-01,C018,P06,5,"950,0",0,"4750,0",Piura,TIENDA,ventas_2025-06.csv
+V0075,2025-06-06,C012,P05,4,"210,0",0,"840,0",Trujillo,web,ventas_2025-06.csv
+V0412,2025-06-02,C015,P07,6,"180,0",0,"1080,0",Trujillo,tienda,ventas_2025-06.csv
+V0119,2025-06-07,C001,P05,6,"210,0",0,"1260,0",Piura,TIENDA,ventas_2025-06.csv
+V0463,21/06/2025,C003,P08,1,"640,0",5,"608,0",Cusco,Telefono,ventas_2025-06.csv
+V0223,2025-06-27,C015,P05,4,"210,0",10,"756,0",Cusco,tienda,ventas_2025-06.csv
+V0180,2025-06-27,C018,P07,2,"180,0",0,"360,0",Arequipa, Web ,ventas_2025-06.csv
+V0429,2025-06-21,C009,P02,3,"780,0",0,"2340,0",Piura,tienda,ventas_2025-06.csv
+V0390,2025-06-18,C020,P03,5,"120,0",10,"540,0",Piura,TIENDA,ventas_2025-06.csv
+V0280,2025-06-23,C006,P07,4,"180,0",0,"720,0",Cusco,web,ventas_2025-06.csv
+V0066,2025-06-30,C005,P01,4,"3200,0",10,"11520,0",Arequipa, Telefono ,ventas_2025-06.csv
+V0105,2025-06-30,C002,P05,4,"210,0",0,"840,0",Cusco,Telefono,ventas_2025-06.csv
+V0386,2025-06-09,C003,P01,2,"3200,0",0,"6400,0",Arequipa,TIENDA,ventas_2025-06.csv
+V0292,2025-06-03,C006,P05,3,"210,0",0,"630,0",Piura,Telefono,ventas_2025-06.csv
+V0193,23/06/2025,C011,P04,2,"65,0",5,"123,5",Arequipa,web,ventas_2025-06.csv
+V0447,2025-06-22,C013,P05,4,"210,0",0,"840,0",Chiclayo,WEB,ventas_2025-06.csv
+V0132,2025-06-06,C018,P05,2,"210,0",15,"357,0",Trujillo,web,ventas_2025-06.csv
+V0334,2025-06-09,C002,P06,2,"950,0",0,"1900,0",Lima, Web ,ventas_2025-06.csv
+V0141,23/06/2025,C005,P06,5,"950,0",0,"4750,0",Lima, Web ,ventas_2025-06.csv
+V0040,2025-06-04,C005,P04,3,"65,0",10,"175,5",Chiclayo, Telefono ,ventas_2025-06.csv
+V0118,2025-06-08,C008,P06,5,"950,0",0,"4750,0",Arequipa, Tienda ,ventas_2025-06.csv
+V0388,2025-06-12,C007,P02,5,"780,0",0,"3900,0",Lima,Web,ventas_2025-06.csv
+V0477,08/06/2025,C013,P02,1,"780,0",0,"780,0",Trujillo, Tienda ,ventas_2025-06.csv
+V0243,05/06/2025,C018,P03,6,"120,0",0,"720,0",Trujillo,Web,ventas_2025-06.csv
+V0354,22/09/2025,C019,P07,5,"180,0",0,"900,0",Arequipa,Tienda,ventas_2025-09.csv
+V0472,2025-09-24,C016,P08,3,"640,0",0,"1920,0",Arequipa,Tienda,ventas_2025-09.csv
+V0039,24/09/2025,C005,P03,2,"120,0",5,"228,0",Chiclayo,TIENDA,ventas_2025-09.csv
+V0410,04/09/2025,C018,P07,5,"180,0",10,"810,0",Chiclayo, Telefono ,ventas_2025-09.csv
+V0226,2025-09-18,C005,P02,6,"780,0",0,"4680,0",Lima,tienda,ventas_2025-09.csv
+V0228,2025-09-05,C011,P02,2,"780,0",0,"1560,0",Arequipa, Web ,ventas_2025-09.csv
+V0079,2025-09-11,C008,P06,1,"950,0",0,"950,0",Arequipa,Telefono,ventas_2025-09.csv
+V0024,2025-09-16,C019,P02,3,"780,0",0,"2340,0",Trujillo,Web,ventas_2025-09.csv
+V0013,2025-09-27,C017,P07,6,"180,0",5,"1026,0",Cusco,WEB,ventas_2025-09.csv
+V0351,2025-09-08,C006,P03,3,"120,0",5,"342,0",Chiclayo,Telefono,ventas_2025-09.csv
+V0464,2025-09-04,C004,P05,5,"210,0",15,"892,5",Piura,web,ventas_2025-09.csv
+V0073,2025-09-29,C016,P04,6,"65,0",0,"390,0",Trujillo,Web,ventas_2025-09.csv
+V0125,2025-09-28,C015,P07,6,"180,0",5,"1026,0",Piura,telefono,ventas_2025-09.csv
+V0112,2025-09-24,C004,P02,6,"780,0",10,"4212,0",Chiclayo, Tienda ,ventas_2025-09.csv
+V0221,12/09/2025,C011,P08,3,"640,0",15,"1632,0",Piura,TIENDA,ventas_2025-09.csv
+V0051,2025-09-20,C015,P07,6,"180,0",15,"918,0",Cusco,WEB,ventas_2025-09.csv
+V0291,2025-09-09,C020,P02,6,"780,0",10,"4212,0",Chiclayo,telefono,ventas_2025-09.csv
+V0457,2025-09-26,C007,P06,2,"950,0",0,"1900,0",,Tienda,ventas_2025-09.csv
+V0366,2025-09-19,C003,P08,1,"640,0",15,"544,0",Trujillo, Web ,ventas_2025-09.csv
+V0031,2025-09-10,C007,P06,1,"950,0",0,"950,0",Chiclayo,telefono,ventas_2025-09.csv
+V0155,2025-09-22,C010,P03,6,"120,0",0,"720,0",Lima,WEB,ventas_2025-09.csv
+V0475,24/09/2025,C016,P02,6,"780,0",5,"4446,0",Piura,TIENDA,ventas_2025-09.csv
+V0171,2025-09-18,C005,P03,4,"120,0",5,"456,0",Cusco,Telefono,ventas_2025-09.csv
+V0309,2025-09-04,C005,P06,5,"950,0",0,"4750,0",Lima,Web,ventas_2025-09.csv
+V9002,2025-09-03,C777,P03,2,"120,0",0,"240,0",Cusco,Tienda,ventas_2025-09.csv
+V0427,2025-09-30,C012,P04,2,"65,0",5,"123,5",Lima,tienda,ventas_2025-09.csv
+V0131,13/09/2025,C020,P05,1,"210,0",10,"189,0",Lima,TELEFONO,ventas_2025-09.csv
+V0326,2025-09-18,C008,P02,1,"780,0",0,"780,0",Cusco,WEB,ventas_2025-09.csv
+V0357,29/09/2025,C011,P01,2,"3200,0",5,"6080,0",Trujillo,WEB,ventas_2025-09.csv
+V0157,2025-09-08,C002,P06,6,"950,0",15,"4845,0",Arequipa, Tienda ,ventas_2025-09.csv
+V0019,02/09/2025,C009,P04,6,"65,0",0,"390,0",Cusco,web,ventas_2025-09.csv
+V0125,2025-09-28,C015,P07,6,"180,0",5,"1026,0",Piura,telefono,ventas_2025-09.csv
+V0374,2025-09-15,C002,P05,5,"210,0",0,"1050,0",Piura,WEB,ventas_2025-09.csv
+V0188,2025-09-14,C012,P03,3,"120,0",0,"360,0",Chiclayo,Web,ventas_2025-09.csv
+V0340,2025-09-18,C018,P08,6,"640,0",0,"3840,0",Cusco,web,ventas_2025-09.csv
+V0347,2025-09-15,C020,P08,6,"640,0",0,"3840,0",Piura, Web ,ventas_2025-09.csv
+V0219,2025-09-05,C017,P05,3,"210,0",0,"630,0",Chiclayo, Tienda ,ventas_2025-09.csv
+V0038,2025-09-03,C010,P03,4,"120,0",5,"456,0",Cusco,web,ventas_2025-09.csv
+V0097,02/09/2025,C011,P04,3,"65,0",0,"195,0",Trujillo,web,ventas_2025-09.csv
+V0124,2025-09-28,C007,P07,3,"180,0",0,"540,0",Piura, Web ,ventas_2025-09.csv
+V0252,2025-09-07,C016,P02,5,"780,0",0,"3900,0",Piura,Telefono,ventas_2025-09.csv
+V0305,2025-09-19,C001,P01,3,"3200,0",10,"8640,0",Lima, Web ,ventas_2025-09.csv
+V0472,2025-09-24,C016,P08,3,"640,0",0,"1920,0",Arequipa,Tienda,ventas_2025-09.csv
+V0120,01/09/2025,C010,P04,3,"65,0",15,"165,75",Lima,tienda,ventas_2025-09.csv
+V0443,2025-09-13,C004,P01,5,"3200,0",0,"16000,0",Cusco,Web,ventas_2025-09.csv
+V0313,03/09/2025,C003,P04,4,"65,0",5,"247,0",Lima,tienda,ventas_2025-09.csv
+V0350,2025-09-26,C009,P04,5,"65,0",10,"292,5",Lima,Telefono,ventas_2025-09.csv
+V0368,2025-09-22,C010,P07,6,"180,0",0,"1080,0",Lima,WEB,ventas_2025-09.csv
+V0475,24/09/2025,C016,P02,6,"780,0",5,"4446,0",Piura,TIENDA,ventas_2025-09.csv
+V0377,2025-10-29,C010,P01,2,"3200,0",5,"6080,0",Cusco,Telefono,ventas_2025-10.csv
+V0241,14/10/2025,C020,P01,3,"3200,0",5,"9120,0",Lima,web,ventas_2025-10.csv
+V0287,2025-10-28,C017,P02,1,"780,0",0,"780,0",Chiclayo,web,ventas_2025-10.csv
+V0256,2025-10-07,C014,P03,5,"120,0",0,"600,0",Piura,web,ventas_2025-10.csv
+V0240,2025-10-13,C008,P03,1,"120,0",0,"120,0",Piura,telefono,ventas_2025-10.csv
+V0445,2025-10-17,C020,P07,1,"180,0",0,"180,0",Lima,web,ventas_2025-10.csv
+V0424,2025-10-27,C005,P03,2,"120,0",0,"240,0",Cusco,Tienda,ventas_2025-10.csv
+V0249,2025-10-12,C005,P01,1,"3200,0",0,"3200,0",Trujillo,web,ventas_2025-10.csv
+V0084,15/10/2025,C002,P08,5,"640,0",10,"2880,0",Chiclayo,Telefono,ventas_2025-10.csv
+V0321,12/10/2025,C003,P04,1,"65,0",0,"65,0",Lima,WEB,ventas_2025-10.csv
+V0338,2025-10-30,C011,P03,2,"120,0",15,"204,0",Lima,TIENDA,ventas_2025-10.csv
+V0459,18/10/2025,C016,P07,5,"180,0",0,"900,0",Lima, Tienda ,ventas_2025-10.csv
+V0307,2025-10-02,C018,P04,3,"65,0",0,"195,0",Chiclayo,WEB,ventas_2025-10.csv
+V0439,2025-10-29,C007,P02,4,"780,0",15,"2652,0",Trujillo,TELEFONO,ventas_2025-10.csv
+V0202,2025-10-30,C010,P05,6,"210,0",0,"1260,0",Lima, Web ,ventas_2025-10.csv
+V0151,2025-10-31,C012,P04,4,"65,0",0,"260,0",Lima,Telefono,ventas_2025-10.csv
+V0203,14/10/2025,C009,P02,4,"780,0",0,"3120,0",Cusco,TELEFONO,ventas_2025-10.csv
+V0047,2025-10-10,C005,P05,6,"210,0",5,"1197,0",Arequipa,tienda,ventas_2025-10.csv
+V0322,19/10/2025,C017,P08,3,"640,0",15,"1632,0",Cusco,telefono,ventas_2025-10.csv
+V0089,2025-10-15,C010,P05,6,"210,0",0,"1260,0",Cusco,WEB,ventas_2025-10.csv
+V0462,2025-10-12,C018,P05,3,"210,0",0,"630,0",Lima, Telefono ,ventas_2025-10.csv
+V0135,23/10/2025,C011,P08,5,"640,0",0,"3200,0",Trujillo, Web ,ventas_2025-10.csv
+V0244,04/10/2025,C014,P02,4,"780,0",0,"3120,0",Piura,Web,ventas_2025-10.csv
+V0363,2025-10-27,C019,P04,6,"65,0",5,"370,5",Arequipa,TELEFONO,ventas_2025-10.csv
+V0108,04/10/2025,C001,P08,1,"640,0",15,"544,0",Piura,Tienda,ventas_2025-10.csv
+V0090,2025-10-27,C012,P04,3,"65,0",0,"195,0",Arequipa, Telefono ,ventas_2025-10.csv
+V0190,2025-10-08,C006,P01,6,"3200,0",5,"18240,0",Arequipa,Tienda,ventas_2025-10.csv
+V0331,07/10/2025,C017,P07,1,"180,0",15,"153,0",Arequipa,WEB,ventas_2025-10.csv
+V0160,19/10/2025,C018,P08,6,"640,0",15,"3264,0",Trujillo, Tienda ,ventas_2025-10.csv
+V0358,2025-10-04,C017,P07,5,"180,0",5,"855,0",Cusco, Web ,ventas_2025-10.csv
+V0287,2025-10-28,C017,P02,1,"780,0",0,"780,0",Chiclayo,web,ventas_2025-10.csv
+V0430,2025-10-10,C018,P06,6,"950,0",0,"5700,0",Chiclayo,telefono,ventas_2025-10.csv
+V0158,2025-10-28,C005,P08,1,"640,0",15,"544,0",Arequipa, Web ,ventas_2025-10.csv
+V0403,2025-10-27,C001,P06,5,"950,0",0,"4750,0",Trujillo,tienda,ventas_2025-10.csv
+V0278,2025-10-26,C009,P05,4,"210,0",0,"840,0",Chiclayo,WEB,ventas_2025-10.csv
+V0091,2025-10-15,C006,P06,5,"950,0",5,"4512,5",Arequipa,TIENDA,ventas_2025-10.csv
+V0384,01/10/2025,C005,P07,6,"180,0",15,"918,0",Cusco,tienda,ventas_2025-10.csv
+V0156,2025-10-27,C003,P05,2,"210,0",0,"420,0",Trujillo,tienda,ventas_2025-10.csv
+V0178,17/10/2025,C004,P02,1,"780,0",5,"741,0",Arequipa,TELEFONO,ventas_2025-10.csv
+V0148,24/10/2025,C015,P08,4,"640,0",0,"2560,0",Piura,TELEFONO,ventas_2025-10.csv
+V0453,2025-10-12,C006,P01,3,"3200,0",5,"9120,0",Chiclayo,telefono,ventas_2025-10.csv
+V0322,19/10/2025,C017,P08,3,"640,0",15,"1632,0",Cusco,telefono,ventas_2025-10.csv
+V0104,2025-10-08,C020,P02,5,"780,0",5,"3705,0",Trujillo,tienda,ventas_2025-10.csv
+V0328,2025-10-04,C010,P01,6,"3200,0",15,"16320,0",Arequipa, Web ,ventas_2025-10.csv
+V0110,05/10/2025,C001,P07,1,"180,0",0,"180,0",Trujillo, Telefono ,ventas_2025-10.csv
+V0222,2025-10-21,C001,P02,2,"780,0",15,"1326,0",Trujillo,telefono,ventas_2025-10.csv
+V0440,2025-10-04,C003,P07,2,"180,0",5,"342,0",Piura,Web,ventas_2025-10.csv
+V0161,2025-10-26,C018,P02,3,"780,0",0,"2340,0",Trujillo,tienda,ventas_2025-10.csv
+V0371,2025-12-04,C008,P02,4,"780,0",0,"3120,0",Chiclayo,TIENDA,ventas_2025-12.csv
+V0288,2025-12-30,C002,P04,3,"65,0",5,"185,25",Trujillo, Web ,ventas_2025-12.csv
+V0373,2025-12-12,C007,P03,4,"120,0",0,"480,0",Trujillo,TIENDA,ventas_2025-12.csv
+V0145,2025-12-08,C006,P08,3,"640,0",15,"1632,0",Trujillo,tienda,ventas_2025-12.csv
+V0143,2025-12-19,C018,P03,5,"120,0",0,"600,0",Chiclayo,Web,ventas_2025-12.csv
+V0330,2025-12-28,C008,P03,4,"120,0",15,"408,0",Chiclayo, Telefono ,ventas_2025-12.csv
+V0434,2025-12-10,C017,P04,3,"65,0",0,"195,0",Piura,Web,ventas_2025-12.csv
+V0113,26/12/2025,C007,P05,2,"210,0",0,"420,0",Chiclayo,Web,ventas_2025-12.csv
+V0102,2025-12-23,C010,P06,2,"950,0",10,"1710,0",Chiclayo,web,ventas_2025-12.csv
+V0431,2025-12-03,C017,P03,6,"120,0",5,"684,0",Arequipa,telefono,ventas_2025-12.csv
+V0229,2025-12-31,C003,P01,3,"3200,0",0,"9600,0",Cusco,TELEFONO,ventas_2025-12.csv
+V0137,2025-12-16,C015,P06,2,"950,0",10,"1710,0",Chiclayo, Tienda ,ventas_2025-12.csv
+V0262,2025-12-25,C006,P06,3,"950,0",0,"2850,0",Piura,TELEFONO,ventas_2025-12.csv
+V0004,2025-12-03,C012,P01,4,"3200,0",5,"12160,0",Chiclayo,Tienda,ventas_2025-12.csv
+V0420,2025-12-06,C011,P08,4,"640,0",5,"2432,0",Lima,web,ventas_2025-12.csv
+V0392,2025-12-27,C016,P02,1,"780,0",0,"780,0",Arequipa,Web,ventas_2025-12.csv
+V0299,2025-12-08,C006,P02,2,"780,0",0,"1560,0",Arequipa,TELEFONO,ventas_2025-12.csv
+V0263,2025-12-27,C018,P02,2,"780,0",0,"1560,0",Cusco,web,ventas_2025-12.csv
+V0277,2025-12-15,C011,P02,5,"780,0",0,"3900,0",Lima,TIENDA,ventas_2025-12.csv
+V0396,23/12/2025,C005,P04,3,"65,0",0,"195,0",Trujillo,TELEFONO,ventas_2025-12.csv
+V0034,25/12/2025,C006,P03,2,"120,0",0,"240,0",Chiclayo,tienda,ventas_2025-12.csv
+V0050,03/12/2025,C017,P03,5,"120,0",15,"510,0",Trujillo,Telefono,ventas_2025-12.csv
+V0217,2025-12-04,C015,P06,3,"950,0",0,"2850,0",Piura,Tienda,ventas_2025-12.csv
+V0247,2025-12-12,C012,P08,3,"640,0",10,"1728,0",Cusco, Telefono ,ventas_2025-12.csv
+V0454,15/12/2025,C014,P07,2,"180,0",10,"324,0",Lima,Telefono,ventas_2025-12.csv
+V0061,2025-12-12,C002,P07,5,"180,0",10,"810,0",Arequipa,telefono,ventas_2025-12.csv
+V0006,28/12/2025,C015,P03,6,"120,0",0,"720,0",Chiclayo,WEB,ventas_2025-12.csv
+V0442,03/12/2025,C001,P07,1,"180,0",5,"171,0",,web,ventas_2025-12.csv
+V0081,2025-12-30,C008,P05,3,"210,0",0,"630,0",Chiclayo, Web ,ventas_2025-12.csv
+V0246,22/12/2025,C005,P04,3,"65,0",5,"185,25",Trujillo,web,ventas_2025-12.csv
+V0081,2025-12-30,C008,P05,3,"210,0",0,"630,0",Chiclayo, Web ,ventas_2025-12.csv
+V0372,28/12/2025,C010,P01,2,"3200,0",0,"6400,0",Arequipa,web,ventas_2025-12.csv
+V0010,2025-12-08,C016,P05,1,"210,0",10,"189,0",Lima,Telefono,ventas_2025-12.csv
+V0451,08/12/2025,C016,P08,6,"640,0",0,"3840,0",Arequipa,Tienda,ventas_2025-12.csv
+V0080,2025-12-31,C002,P01,2,"3200,0",5,"6080,0",Piura,WEB,ventas_2025-12.csv
+V0270,2025-12-26,C010,P06,6,"950,0",0,"5700,0",Trujillo, Web ,ventas_2025-12.csv
+V0109,2025-12-24,C005,P03,3,"120,0",0,"360,0",Chiclayo,tienda,ventas_2025-12.csv
+V0174,2025-12-23,C004,P02,3,"780,0",0,"2340,0",Arequipa, Web ,ventas_2025-12.csv
+V0012,2025-12-04,C015,P06,4,"950,0",0,"3800,0",Piura,TELEFONO,ventas_2025-12.csv
+V0418,2025-12-08,C007,P01,4,"3200,0",5,"12160,0",Lima,web,ventas_2025-12.csv
+V0297,2025-12-09,C018,P03,1,"120,0",5,"114,0",Piura,telefono,ventas_2025-12.csv
+V0036,2025-12-23,C004,P05,2,"210,0",15,"357,0",Trujillo, Web ,ventas_2025-12.csv
+V0422,29/12/2025,C004,P04,2,"65,0",5,"123,5",Cusco, Telefono ,ventas_2025-12.csv
+V0167,2025-12-09,C005,P03,6,"120,0",0,"720,0",,web,ventas_2025-12.csv
+V0393,2025-12-22,C003,P06,5,"950,0",5,"4512,5",Lima,telefono,ventas_2025-12.csv
